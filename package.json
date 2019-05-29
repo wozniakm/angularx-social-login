@@ -55,9 +55,9 @@
     "release": "standard-version"
   },
   "peerDependencies": {
-    "@angular/core": "^7.2.15",
+    "@angular/core": "^7.2.15 || ^8.0.0",
     "rxjs": "^6.5.2",
-    "zone.js": "^0.8.29"
+    "zone.js": "^0.8.29 || ^0.9.0"
   },
   "devDependencies": {
     "@angular/common": "^7.2.15",
@@ -85,7 +85,7 @@
     "tsickle": "^0.35.0",
     "tslint": "^5.16.0",
     "typescript": "^3.2.4",
-    "zone.js": "^0.8.29"
+    "zone.js": "^0.9.1"
   },
   "dependencies": {}
 }
